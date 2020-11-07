@@ -1,6 +1,5 @@
 # robofriends
-Tutorial for udemy course - React
-To run the project:
+Added redux-thunk functionality to initial robofriends
 
 1. Clone this repo
 2. Run `npm install`
