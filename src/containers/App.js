@@ -9,7 +9,6 @@ import {setSearchField} from '../redux/search-change/search-actions'
 import {requestRobots} from '../redux/search-robots/robot-actions'
 import Header from '../code-split/header'
 
-
 class App extends Component {
   componentDidMount() {
     this.props.onRequestRobots()
