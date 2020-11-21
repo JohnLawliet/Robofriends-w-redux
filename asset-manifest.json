@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Robofriends-w-redux/static/css/main.85ca8152.chunk.css",
-    "main.js": "/Robofriends-w-redux/static/js/main.a0e2e5f3.chunk.js",
-    "main.js.map": "/Robofriends-w-redux/static/js/main.a0e2e5f3.chunk.js.map",
+    "main.js": "/Robofriends-w-redux/static/js/main.b6f55bf3.chunk.js",
+    "main.js.map": "/Robofriends-w-redux/static/js/main.b6f55bf3.chunk.js.map",
     "runtime-main.js": "/Robofriends-w-redux/static/js/runtime-main.6e435b1e.js",
     "runtime-main.js.map": "/Robofriends-w-redux/static/js/runtime-main.6e435b1e.js.map",
     "static/css/2.038644eb.chunk.css": "/Robofriends-w-redux/static/css/2.038644eb.chunk.css",
-    "static/js/2.bc368ef2.chunk.js": "/Robofriends-w-redux/static/js/2.bc368ef2.chunk.js",
-    "static/js/2.bc368ef2.chunk.js.map": "/Robofriends-w-redux/static/js/2.bc368ef2.chunk.js.map",
+    "static/js/2.869872a3.chunk.js": "/Robofriends-w-redux/static/js/2.869872a3.chunk.js",
+    "static/js/2.869872a3.chunk.js.map": "/Robofriends-w-redux/static/js/2.869872a3.chunk.js.map",
     "index.html": "/Robofriends-w-redux/index.html",
-    "precache-manifest.cbe0477813cb92e737277bf986507449.js": "/Robofriends-w-redux/precache-manifest.cbe0477813cb92e737277bf986507449.js",
+    "precache-manifest.9bf90b44969ab7b2e418be150dfc090f.js": "/Robofriends-w-redux/precache-manifest.9bf90b44969ab7b2e418be150dfc090f.js",
     "service-worker.js": "/Robofriends-w-redux/service-worker.js",
     "static/css/2.038644eb.chunk.css.map": "/Robofriends-w-redux/static/css/2.038644eb.chunk.css.map",
     "static/css/main.85ca8152.chunk.css.map": "/Robofriends-w-redux/static/css/main.85ca8152.chunk.css.map",
-    "static/js/2.bc368ef2.chunk.js.LICENSE.txt": "/Robofriends-w-redux/static/js/2.bc368ef2.chunk.js.LICENSE.txt",
+    "static/js/2.869872a3.chunk.js.LICENSE.txt": "/Robofriends-w-redux/static/js/2.869872a3.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Robofriends-w-redux/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.6e435b1e.js",
     "static/css/2.038644eb.chunk.css",
-    "static/js/2.bc368ef2.chunk.js",
+    "static/js/2.869872a3.chunk.js",
     "static/css/main.85ca8152.chunk.css",
-    "static/js/main.a0e2e5f3.chunk.js"
+    "static/js/main.b6f55bf3.chunk.js"
   ]
 }
